@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="resgiter:war">
+    <output-path>$PROJECT_DIR$/resgiter/target</output-path>
+    <root id="archive" name="resgiter.war">
+      <element id="artifact" artifact-name="resgiter:war exploded" />
+    </root>
+  </artifact>
+</component>
